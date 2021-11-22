@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Piotr (Peter) and I'm JavaScript enthusiast 😊
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning React Native
 - 🌈 Pronouns: he/him
 
 ## Socials

@@ -3,7 +3,7 @@ My name is Piotr (Peter) and I'm JavaScript enthusiast 😊
 
 ## Check out my [portfolio](https://pomierski.github.io/portfolio/)
 
-- 🌱 I’m currently learning React Native & Go
+- 🌱 I’m currently learning nim 👑
 - 🌈 Pronouns: he/him
 
 ## Socials
